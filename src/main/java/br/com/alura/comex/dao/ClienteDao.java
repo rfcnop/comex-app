@@ -1,6 +1,8 @@
 package br.com.alura.comex.dao;
 
 import br.com.alura.comex.model.Cliente;
+import br.com.alura.comex.db.ConnectionFactory;
+import br.com.alura.comex.db.DatabaseUtils;
 
 import java.sql.*;
 import java.util.ArrayList;

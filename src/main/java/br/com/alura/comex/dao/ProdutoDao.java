@@ -1,5 +1,7 @@
 package br.com.alura.comex.dao;
 
+import br.com.alura.comex.db.ConnectionFactory;
+import br.com.alura.comex.db.DatabaseUtils;
 import br.com.alura.comex.model.Categoria;
 import br.com.alura.comex.model.Produto;
 
